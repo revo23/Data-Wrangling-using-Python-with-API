@@ -3,7 +3,7 @@
 
 pokeapi.py - get pokemon api from pokeapi.co using Requests library, dictionaries, functions
 
-
+customers-1000000.csv - 1 mil customers sample record
 
 
 
