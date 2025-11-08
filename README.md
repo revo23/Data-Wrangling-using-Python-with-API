@@ -7,7 +7,7 @@
 
 
 **API practice**  
-pokeapi.py - get pokemon api from `pokeapi.co` using Requests library, dictionaries, functions  
+pokeapi.py - get pokemon api from `pokeapi.co` using requests library, dictionaries, functions  
 
 
 **Data Wrangling practice**  
