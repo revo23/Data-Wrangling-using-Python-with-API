@@ -1,8 +1,8 @@
 # Data-Wrangling-using-Python-with-API
 
 **Data Wrangling with Python Pandas**  
-pandas.ipynb
-
+pandas.ipynb  
+`https://www.youtube.com/watch?v=64vfUnQCARU&list=PLaTRS7jSADu94h9Auycg5ZsikOHThBt69&index=1`  
 
 
 
