@@ -11,7 +11,7 @@ pokeapi.py - get pokemon api from `pokeapi.co` using requests library, dictionar
 
 
 **Data Wrangling practice**  
-customers-1000000.csv - 1 mil customers sample record  
+customers-1000000.csv (1 mil customers sample record)  
 
 
 
