@@ -4,8 +4,10 @@
 series.ipynb (Using Python Pandas Series)  
 dataframes.ipynb (Using Python Pandas DataFrames)  
 select_filter_sort.ipynb (Selecting, Filtering snd Sorting Python Pandas DataFrames)  
-
-
+data_wrangling.ipynb (Data Wrangling with Python and Pandas)  
+date-time.ipynb (Working with Dates and Times in Python Pandas)  
+duplicate.ipynb (Removing Duplicate Records in Python Pandas)  
+grouping_aggregating.ipynb (Grouping and Aggregating Data in Python Pandas)  
 
 **API practice**  
 pokeapi.py (get pokemon api from `pokeapi.co` using requests library, dictionaries, functions)  
