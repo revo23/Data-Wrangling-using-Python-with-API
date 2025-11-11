@@ -9,6 +9,8 @@ date-time.ipynb (Working with Dates and Times in Python Pandas)
 duplicate.ipynb (Removing Duplicate Records in Python Pandas)  
 grouping_aggregating.ipynb (Grouping and Aggregating Data in Python Pandas)  
 
+functions e.g. pd.series(), pd.read_csv(),  pd.DataFrame(), df.iloc[], df.loc[], sort(), unique(), to_datetime(), merge()...etc
+
 **API practice**  
 pokeapi.py (get pokemon api from `pokeapi.co` using requests library, dictionaries, functions)  
 
